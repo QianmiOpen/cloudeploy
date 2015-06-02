@@ -17,7 +17,7 @@ Cluodeploy是为解决客户私有云部署与监控，应用维护等问题统�
 安装
 ---
 1. Oracle官方下载最新的[JDK8](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-2. [版本发布页](http://git.dev.qianmi.com/tda/cloudeploy/tags)下载最新的 **cloudeploy-1.0-RELEASE.jar**
+2. [版本发布页](https://github.com/QianmiOpen/cloudeploy/releases)下载最新的 **cloudeploy-1.0-RELEASE.jar**
 3. 访问 **http://[hostname]:[port]/**在你的浏览器中，默认port:4567
 
 默认是直接访问（没做任何限制），为了安全起见请配置iptable策略。
